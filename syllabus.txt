@@ -1,0 +1,303 @@
+IEE 454 & 554 Risk Management (Online) - Syllabus [Spring 26 X B]
+Last updated: Tuesday, May 19, 2026
+
+(1) Welcome All! I am so excited to start this course. I am looking forward to a great semester! This is an ASU Online Course without any meeting dates.
+This is the syllabus for your course. Read, clarify, discuss it carefully and make sure you understand fully. No word or sentence is colored or underlined on purpose (except for some titles), as every line is important for your success!
+
+(2) All students should have access to pdfs of the Power Point slides, lectures, readings, video links and any additional readings on Canvas. Make sure to complete all the requirements in the initial module (Module0) to unlock the course content.
+
+Instructor: Ali Kucukozyigit
+Office: BYENG 360 (use Zoom to meet)
+e-mail: akucukoz@asu.edu <Messages sent through Canvas Inbox or a personal and/or third-party email account (like iCloud, Gmail, Yahoo and all others) do not get a response.>
+Office hours: See Canvas for Office Hours
+
+Course Description: Methods and tools for identifying, assessing, mitigating and controlling risk in business and engineering design activities. Decision tools include cost-benefit analysis, decision trees, value of information, Bayesian statistical decision making, fault trees, and failure modes and effects analysis (FMEA).
+
+Pre-requisite: Engineering major OR Engineering Management Minor/Concentration; ECN 221 or IEE 380 with C or better; minimum junior standing OR Visiting University Student
+
+COURSE OBJECTIVE AND EXPECTED LEARNING OUTCOMES
+(3) The objective of this course is to learn and apply the methods and tools for identifying, assessing, mitigating and controlling risk in business and engineering design activities. Decision tools include cost-benefit analysis, decision trees, value of information, Bayesian statistical decision making, fault trees, and failure modes and effects analysis (FMEA). This course is a foundation course to our Industrial Engineering program at ASU as such it addresses the concepts needed for a successful system planning, design and build process.
+
+(4) The foundation for the course is based upon the following notions:
+- Risk is present throughout our lives
+- All projects have risks
+- Achieving efficient and effective risk management
+- Issue and crisis management arise from risk management failure
+- Risk is not always negative
+
+(5) At the completion of this course, you will be able to:
+- Incorporate risk minimization principles and practice in engineering design.
+- Manage various risks through assessment methods and mitigation strategies (risk responses).
+- Describe the modern methods of risk engineering to ensure safe, reliable, and profitable products.
+- Manage financial, schedule, and performance risks in projects.
+- Differentiate traditional risk management and enterprise risk management.
+
+This syllabus is subject to change as needed through the semester.
+
+REQUIRED TEXTBOOK
+(6) Required: Wang, John X. and M. L. Roush, What Every Engineer Should Know About Risk Engineering and Management, CRC Press, 2000. OR What Every Engineer Should Know About Risk Engineering and Management 2nd Edition by John X. Wang (Author) ISBN-10 1032439823 ISBN-13 978-1032439822 2nd Edition CRC Press, 2023 (You can purchase the most recent publication if you want, but the previous is also OK, no difference in terms of succeeding in this course). Recommended: PMBOK guide is also used (but the book itself is not required to purchase) and it is accessible with no charge to ASU students from ASU library. Find the link on Canvas site.
+
+COURSE TIME COMMITMENT AND SUCCESS TIPS
+(7) This 3-credit course requires approximately 135 hours of work. Expect to spend 3+ hours per day over a 5-day week preparing for and actively participating in this course.
+- You are expected to watch the recordings. Students who try to get through the course without watching the videos will earn a failing grade in the course as this will not be enough.
+- Suggestion: Taking notes directly on the lecture slides is a proven, effective means of material retention. Use flagging and storytelling to retain the material. You can also take digital time stamped notes in the videos which can help with your later review.
+- You have an advantage that the campus students do not: You can view the lecture videos as many times as you want! Take advantage of that fact. If you do not understand something, watch the video again, stop as you see necessary to digest the material.
+- Make sure you do not miss quiz, assignment and discussions due dates as there will be late submission/completion penalties. (1% per hour)
+- Once the due date passes three days, you will not be able to earn points from that submission/work, you are going to be honored a zero from that assignment. There is no make-up opportunity.
+- Due date changes will be granted for only five situations itemized in this syllabus (all of them required pre-coordination with Prof., officially documented (email to Prof. is not enough) and shared with Student Advocacy).
+
+(8) I want you all to be successful, and I believe you can be! However, you need to do the following (more on Canvas for you to read) that will potentially lead your success both in the course and in your professional development:
+- make a study plan and go with your own tempo
+- create a study and/or assignment schedule to stay on track
+- make sure you mark down your Quiz, Exam and other assignment due dates
+- make sure to complete the necessary modules and playposits before the exam dates
+- check the course canvas site daily
+- read announcements and act timely
+- If you want to discuss team projects with the instructor, two students need to be present in the meeting.
+- For the exams, you are required to have a second camera (external) to show your workstation surface, around the table and around your laptop. See the photos provided on canvas.
+- read and respond to course email messages as needed
+- complete assignments by the due dates specified
+- communicate regularly with your instructor, TA (if applicable) and peers (on discussion platform)
+- be aware of the course materials and access them on time
+- inform instructor in a timely fashion for any issues
+- cramming before the exam does not really help
+- not only do your part in a project, ensure the validity of the entire project (if you have team members)
+- make sure to meet your team members regularly (if you are doing a group project)
+- get involved in the content and classmates through Yellowdig discussion platform (if you have any)
+
+SCHEDULE
+(9) A detailed schedule of lecture topics, required reading, assignments, and exams is going to be posted separately on Canvas. The schedule and this syllabus may be subject to change with reasonable advance notice. It is OK to adjust your learning tempo and speed (actually you must) according to how you think of your school-work-family balance. Your responsibility is to cover and understand all the required material (at least) once before each exam, quiz and assignment dates. No extra work or make-up will be given.
+
+CANVAS, YELLOWDIG, PLAYPOSIT AND ZOOM
+(10) More information on each of these tools is in the beginning modules of the course.
+
+CANVAS
+(11) All course materials will be posted on the Canvas site for this class. You are mandated to complete the Module 0 and Links and Tools and other modules (if applicable) first to be able to unlock the course content modules. Your ASU courses can be accessed by both my.asu.edu and asu.instructure.com; bookmark both in the event that one site is down. You are going to have access to course Canvas Site by the close of business on the first day classes officially start. All lecture slides, readings, homework, class schedules, and other items will be posted there. You also have to choose a topic, otherwise you will be assigned one.
+
+ZOOM
+(12) Zoom is the primary synchronous communication mean for faculty office hours, individual or group meetings and also class meetings (if applicable) - like course introduction and icebreaker (if the instructor deems necessary for any reason). You must familiarize yourself with Zoom features and also where to find the correct links. All the links are on Canvas. Pay attention to Zoom netiquette. Office hours will also be conducted via Zoom. Any class meetings are going to be conducted via Zoom.
+
+PLAYPOSIT
+(13) Playposit will be used to enhance your knowledge through engagement with the course content and recordings. You will be collecting points as you view and interact with lectures towards your final course grade. Feel free to take digital notes that can be downloaded or used later to jump around the videos for review. Questions are easy but still pay attention to retain the knowledge. Attending half of the playposit questions (in the entire course) is required, or your performance will be scrutinized for possible AIP. It is a part of your final score, refer to the percentages table. All playposit points must be collected before the exam assessment window closes, after that zero will be assigned.
+
+YELLOWDIG
+(14) This course uses a discussion platform called "Yellowdig" for general questions and comments about the course in addition to communicating with your fellow classmates. Prior to posting a question or comment, check the syllabus, check announcements, and check existing posts on yellowdig to ensure it's not redundant. You are encouraged to respond to the questions of your classmates to build a community and create class synergy. Make sure to tag (#) your posts so they are easy to filter later. You also need to use "labels" appropriately. This is not your means for communicating with your professor.
+
+(15) This platform is used by students to help each other and by TAs (if applicable) to help students with their assignments and other questions. General questions about assignments will not be answered by email; instead, post your questions to peer platform and they will be answered there. While there, help someone else with their question. If your issue cannot be resolved via the platform with peer interactions, see a TA, UGTA or the Instructor for help during office hours or just email them. Do not expect your professor to answer and comment posts on this platform!
+
+(16) Think of Yellowdig mostly a "Professor-free" environment, where you learn from peers, interact with course content and create a group synergy and even remind each other due dates. Email questions of a personal nature directly to your faculty and/or TA (if applicable). There is "scoring" in yellowdig where you will collect points with your responses and comments to other students. It is a cumulative grade throughout the semester so do not be concerned if your score is low in the initial portions of the semester. You will increase your total through weekly maximums throughout the semester as you post each week. Do not share posts for the exam, quiz, assignment, playposit content; like questions, solutions, answers and others like sharing your work. Doing so will be considered an academic integrity policy (AIP) violation. Students are required to complete playposit before each exam.
+
+E-MAIL CORRESPONDENCE
+(17) Your primary communication means with your Professor is through office hours and email - not through yellowdig. ASU e-mail is an official means of communication among ASU's students, faculty, and staff (refer to SSM 107-03). Students are expected to ensure that e-mail is accessed, read, and acted upon in a timely fashion. Students bear the responsibility of any missed messages and should check their ASU-assigned e-mail on a regular basis. You MUST send all email from your official ASU email account. Emails not sent from that account will be automatically filtered, deleted, or best case ignored to keep your privacy and education confidentiality. Messages sent through Canvas Inbox or a personal and/or third-party email account (like iCloud, Gmail, Yahoo and all others) do not get a response. Also, do not use SpeedGrader comments section to communicate with the instructor. Do not forward your official ASU.edu emails to third party as you might not get Canvas announcements and faculty emails.
+
+(18) All instructor correspondence is sent to your ASU email account. Not forwarding your ASU email at the first place is highly suggested. Always include the e-mail subject line such that it facilitates the process. One such example can be "IEE XXX" followed by a descriptive subject line (e.g., "IEE XXX question about the homework 1"). Expect a response in the second business day after the day you emailed. If you think the concern is time sensitive (meaning can't wait until the second business day), start your subject with phrase "URGENT". Always include course name and number, online or in-person with your name and last name. If you are answering an email from the instructor "always use reply" so an email chain is created documenting the background of what happened.
+
+(19) Course Canvas Inbox, SpeedGrader Comments section and Yellowdig platform are not direct ways of communication with the instructor in this course for personal and time-sensitive situations. The best way to directly communicate is your instructor's official asu.edu email or office hours.
+
+CALCULATORS
+(20) You will need a calculator for exams in this course, but it is going to be provided by the proctoring software, do not bring a physical calculator to the exams. Learn and practice how to use it before the exam starts. This is a student responsibility to locate and use the Honorlock calculator.
+
+REQUIRED: APPROVED PHOTO ON FILE
+(21) Online students must have an approved photo on file with Sun Devil Card Services (additional information at "ID photos for ASU Online students").
+
+(22) This university requirement supports academic integrity. The photo ID that you provide for exams will be compared with the photo on file. You will receive a "0" for all exams taken without a photo on file. The first exam comes quickly, so you should start the process immediately if your photo is missing. If you are an international student in countries other than US, a government issued (not employer and others) ID or passport with a photo is enough for the exam.
+
+SCHEDULE AND DUE DATES (AZ TIME)
+(23) A detailed schedule with the exact due dates is on Canvas - make sure to check. The assignments are open after the due date until the "until date" where the link will be open for students submit their work with deduction. This is to avoid earning zero point when students are just late a few hours or a day.
+
+GRADING POLICY
+(24) There is no curving in class or exams. The course grade will be guaranteed based upon the total points each individual student achieves in the following. The detailed instructions and due dates for projects and assignments (like power point presentations, quizzes, risk projects or any others) will be communicated separately on Canvas. You may receive an EU, EN or I - depending on your performance and engagement. Y grades are not honored in this course. Academic Status Reports (ASRs) are issued to track and monitor the student learning progression, please comply with the instructions communicated in it and see your advisor.
+
+Grading Categories and Weights:
+1. Engagement Discussions (Yellowdig) (earn weekly maximums, need to post weekly) - 100 points - 10% of final grade
+2. Assignments (Quizzes, Activities/submissions <drop one lowest>) and all others (scaled to 100 points) - 5% of final grade
+3. Group Work - Risk management plan (100 points) FOR GRAD ONLY - 20% of final grade
+4. Group Work - Presentations. FOR UNDERGRAD STUDENTS ONLY (100 points) - 20% of final grade
+5. Exams (Midterm and Final) (each 100 points) [final exam is not cumulative, covers the content after the midterm] - 60% of final grade
+6. Playposit Lectures (recording questions) <drop 2 lowest> - 5% of final grade
+TOTAL: 100%
+
+(25) Be assured that no one with an average lower than your average received a higher grade! There will be no make-up or extra opportunity to collect points at the end of the semester. However, extra credits will be disseminated in some of the exams, that means you can collect >100 points from the exams. 2 lowest of the lecture recording questions (playposit) and also 1 of the lowest module submissions (including reference sheet uploads) will be dropped before calculating course final grade. There will be built-in extra credit exams and assignments if you opt to attempt those questions and points. If you need an honors contract, communicate early in the semester, there might be some opportunities.
+
+(26) Extra credit work is not available in this class to increase your grade at the end of the semester outside the built-in mechanisms. If you dispute the grading of your work, you will have three calendar days after graded work is returned to request a review. When your request is received, a meeting will be scheduled if needed - this is normally done during office hours. No review can be done after the following exam, so plan accordingly. You do not need to submit any forms to make a review. There will be no make-up or extra opportunity to collect points. Not attempted and not completed assignments, quizzes or exams can't be completed all together at the end of the semester (no last-minute submissions for past due assignments).
+
+(27) Grade disputes must first be addressed by discussing the situation with the instructor, please make an appointment. If the dispute is not resolved with the instructor, the student may appeal further. However, the instructor maintains discretion over final grades.
+
+(28) Final exam questions and answers are usually not posted per the department policy, final questions and answers can be reviewed only once the following semester starts.
+
+(29) Important Note about Grading Disputes: According to the academic integrity code, it is an academic violation to bring up the impact of a course grade on your enrollment status, graduation, scholarships, job prospects, etc. as an explicit or implicit, direct or indirect, written or spoken attempt to influence a change in announced grade. Do not contact (verbal or email, direct or indirect) instructor for any grade or point bumps at the end of the semester, this is a serious academic integrity violation.
+
+(30) Course Grade Scale:
+X >= 99%: A+
+90% <= X < 99%: A
+80% <= X < 90%: B
+70% <= X < 80%: C
+60% <= X < 70%: D
+X < 60%: E
+(You may also receive EU, EN or I depending on your specific situation. Academic Integrity Violation grades are considered and evaluated case by case.)
+
+MAKE-UP POLICY
+(31) Assignments and any submissions due dates are on the schedule and fixed. All submissions are due by 11:59 pm AZ time on the declared day. There will be no deadline extensions unless approved by your Professor. Late homework/assignment loses 1% per hour from the final submission score. After the "until date" the assignment is not going to be graded and that submission will earn a zero. In some cases, the instructor has the authority to extend due dates deemed necessary.
+
+(32) Concept Quiz 0 (0.1, 0.2, 0.3) due dates are on the schedule and on canvas. Quizzes are due by 11:59 pm AZ. There will be no deadline extensions or make-ups. There might be extra quizzes if the instructor sees necessary (total quiz weight is not impacted). There is no make up for quizzes. All quizzes will open up on Friday 1pm until Sunday midnight AZ time.
+
+(33) Exam dates are on the schedule and fixed in Canvas. You will have more than 24 hours to complete it. The opportunity for a make-up exam will be available only in the following situations [all need documentation, an email from the student is not official documentation]; forgetting it, mixing up the weeks/days, or having personal business is NOT a reason to be excused:
+1. Required class absence due to university-sanctioned activities (refer to ACD 304-02). Notify the Instructor early in the semester.
+2. Religious observance (refer to ACD 304-04). Notify the Instructor at the beginning of the semester.
+3. The death of an immediate family member, accident, or other emergency. Work with Student Advocacy and Assistance (https://eoss.asu.edu/dos/srr/StudentAdvocacyandAssistance). Once the professor receives notification from Student Advocacy and Assistance, you will have the opportunity for a make-up.
+4. Military deployment or other military service that prohibits taking the exam, in accord with ACD 304-11 and SSM 201-18.
+5. Illness, quarantine, or self-isolation related to illness as documented by an ASU Health Clinic/health professional, communicated to the instructor as soon as possible by email and/or joining office hours.
+
+(34) You must provide verifiable documentation for all of the above situations. For #1 and #2, notify the instructor at the beginning of the semester. For #3 and #5, work with Student Advocacy and Assistance for documentation. For #4, plan ahead with the commanding officer and Student Advocacy and Assistance for documentation; the professor will not take action until the recommendation letter is sent from Student Advocacy. Excused absences do not relieve students from responsibility for any part of the course work required during the period of absence. If it is the final exam or the project, you must file an Incomplete request immediately to make it timely to be approved.
+
+(35) If you are unable to take an exam or quiz due to illness, you must (a) inform and email the instructor before the exam window opens, and (b) produce an authorized, verifiable doctor's excuse within 3 days of the missed exam. If (a) and (b) are in compliance, you will take the assessment within the semester; if not, you may take it the following semester if an Incomplete request is approved by the Dean's office. If you miss the final, you will receive an Incomplete grade and complete your work the following semester. If you miss an exam for a non-emergency situation (forgetting, last-minute unexpected IT crisis due to lack of personal preparation, etc.), you will receive a score of "0" for that exam. A doctor's note with signature from the ASU Health Clinic or a licensed MD (no nurse practitioners) is required. The exam needs to be taken in any case since the final exam is not cumulative in terms of content covered.
+
+(36) If you do not take the Final Exam and are excused by the instructor, you will receive a course grade of "I". In order to pass this course, you must take the Final Exam.
+
+SYLLABUS QUIZ AND CONCEPT QUIZZES/PLAYPOSIT (QUIZ 0)
+(37) The syllabus and concept quizzes are in Canvas. These quizzes do not use online proctoring. You must complete a syllabus quiz to unlock lecture materials. You are expected to complete the quizzes/playposit questions by yourself with your own tempo (before the due date) and not share questions/answers with others.
+
+(38) Early quizzes or exams will not be given except in provable, extreme circumstances. Personal or work travel, family or friend visitation, etc. will not qualify. Forgetting an assignment is not an excuse. The lowest one quiz will be dropped.
+
+EXAM PROCTORING
+(39) This online course uses online proctoring for exams (records computer screen activity and physical room environment). No physical calculators are allowed; you are only allowed one page, both sides, hand-written reference sheet. Uploading the reference sheet is 100 points and considered like a regular quiz.
+
+(40) Online proctoring records your face, computer screen activity, voice and physical room environment. The proctoring service will flag your exam if suspicious activity is detected or exam rules are broken; this will be reviewed by your instructor and reported to the AIP office if suspicious, resulting in a zero score. If your camera or voice/sound recording is missing, you will receive a zero. You are required to use a second/side camera with the described view (a reliable brand with a cable connection is recommended). Resources: https://honorlock.kb.help/setting-up-a-side-angle-camera/. Technical questions: proctoring@asu.edu. Student support: ASU Experience Center, 24/7, phone (855-278-5080) or chat. If your camera frame is not satisfactory but nothing suspicious occurred, your exam will not be valid and you will have to retake it the following week. If anything suspicious occurs, the case is forwarded to the AIP office.
+
+(41) Exam rules (not exhaustive, check Canvas for full list):
+- You may use a handwritten one-page (front/back) reference sheet for each exam; you must upload it within 5 minutes after submission via the Canvas link. Failure to upload results in a zero (treated as a quiz).
+- You must have a photo ID (get an ASU Sun Card if needed: https://cfo.asu.edu/cardservices-suncard).
+- You must have a roster photo uploaded to ASU.
+- Your face, eyes, both hands and desk surface must be on camera at all times (tilt laptop ~45 degrees).
+- Your voice and room noise must be recorded; failure receives a zero.
+- You must do a complete, thorough 360-degree room scan (including around, above and under the table), slowly.
+- You must be alone in the room; no one may enter during the exam.
+- You may NOT have a calculator; use the scientific calculator in the proctoring software.
+- You may not use your cell phone; show your mobile phone and iPad to the camera and place them out of reach but visible.
+- You may not be online on any other devices.
+- You may not wear headsets or earplugs.
+- You may not have any windows open other than the exam window.
+- You may not leave the room; no bathroom breaks allowed.
+- You may not wear a watch of any kind (the exam has a visible timer).
+- You may not discuss the exam with any other student while it is open/live.
+- You may not post exam questions anywhere online or reproduce them in any way, even after the exam closes.
+- You may not take photos or screenshots of any exam at any time, even after it closes.
+- You may NOT use any AI tools like ChatGPT or Bard during exams. Consult your professor about permitted AI use.
+
+(42) Violating any of these rules results in a zero on the exam and a report to the Academic Integrity Officer (AIO), with a recommendation that your final course grade be lowered a full letter grade. You may be suspended or expelled from ASU for serious or repetitive violations.
+
+IT HELP
+(43) You must complete a practice exam before the first exam. For assistance, contact the ASU Experience Center: 24/7 live chat, create a case from My ASU Service Center, or call 855-278-5080. For technical support, use the Help icon in Canvas. Provide your ticket number for any technical problem encountered, including during exams. Attaining a ticket number is required but not sufficient to be excused from the test - you must solve the problem with IT helpdesk within the exam window.
+
+EXAM INSTRUCTIONS
+(44) Exam instructions include (not limited to):
+- You must have an approved photo on file to confirm identity.
+- Your hands, face, eyes and desk surface must be within the camera frame at all times.
+- You must complete a 360-degree room scan of your testing area.
+- You must not have access to a cell phone, smart watch, TI-Nspire calculator, or other internet-capable device during the exam.
+- You are required to upload your one-page (front/back) hand-written reference page within 5 minutes of exam completion; this counts as a regular assignment submission worth 100 credits (like a quiz). Email submissions are not accepted.
+
+EXPECTED CLASSROOM BEHAVIOR
+(45) Expectations apply to in-person, online and iCourse classes. If class is cancelled or delayed, the instructor will announce or pre-arrange to notify students. If this does not happen, students wait at least 15 minutes for the instructor unless directed otherwise.
+
+(46) Students are entitled to receive instruction free from interference by other class members. An instructor may withdraw a student from the course when the student's behavior disrupts the educational process.
+
+(47) Appropriate online behavior (netiquette) includes keeping discussion posts focused on assigned topics, maintaining a cordial atmosphere, and using tact when expressing differences of opinion. Inappropriate posts may be deleted by the instructor.
+
+POLICY AGAINST THREATENING BEHAVIOR
+(48) Interfering with the peaceful conduct of university-related business or remaining on campus grounds after a request to leave may be considered a crime. All incidents of violent or threatening conduct by an ASU student (on- or off-campus) must be reported to ASU PD and the Office of the Dean of Students (SSM 104-02). "Conduct" includes both in-person and virtual interactions.
+
+DISABILITY ACCOMMODATIONS
+(49) Suitable accommodations will be made for students having disabilities. Students needing accommodations must register with the ASU Disabilities Resource Center (DRC) and provide documentation to the Instructor. Communicate the need for accommodation with sufficient time for it to be arranged.
+
+ACCESSIBILITY STATEMENT
+(50) In compliance with the Rehabilitation Act of 1973 Section 504 and the ADAAA of 2008, the Disability Resource Center (DRC) - now renamed SAILS (Student Accessibility and Inclusive Learning Services) - facilitates academic support services and accommodations for qualified students with disabilities. Contact: https://eoss.asu.edu/drc, (480) 965-1234, or DRC@asu.edu. See ACD 304-08.
+
+HARASSMENT AND SEXUAL DISCRIMINATION
+(51) ASU is committed to an environment free of discrimination, harassment, or retaliation based on protected status (race, color, religion, sex, national origin, age, disability, veteran status, sexual orientation, gender identity, genetic information). Reported per ASU policy (ACD 401).
+
+(52) Title IX prohibits sex-based discrimination, sexual violence and harassment. Resources: https://sexualviolenceprevention.asu.edu/faqs.
+
+(53) The instructor is a mandated reporter and must report alleged acts of sexual discrimination, including sexual violence and dating violence. ASU Counseling Services (https://eoss.asu.edu/counseling) is available for confidential discussion. Online students may also contact "360 Life Services" for counseling.
+
+SCAI UNDERGRADUATE INSTRUCTIONAL CONCERNS PROCESS
+(54) SCAI has outlined the process to address instructional concerns and course-related complaints; see the SCAI website (Undergraduate-Instructional-Concerns).
+
+ACADEMIC INTEGRITY AND COPYRIGHT LAWS
+(55) Students must adhere to ASU's Academic Integrity Policy (https://provost.asu.edu/academic-integrity/policy). Engineering students must also adhere to the ASU Student Honor Code and the Fulton Schools of Engineering Honor Code.
+
+(56) All academic integrity violations will be reported to the Fulton Schools of Engineering Academic Integrity Office (AIO), which maintains records across all ASU colleges/schools.
+
+(57) Academic honesty is expected in all examinations, papers, lab work, academic transactions and records. Possible sanctions include grade penalties, course failure (grade of E), course failure due to academic dishonesty (grade of XE), loss of registration privileges, disqualification and dismissal.
+
+(58) Required behavior standards are also listed in the Student Code of Conduct, Student Disciplinary Procedures, and Computer/Internet/Electronic Communications policy.
+
+ASU "TWO STRIKE" POLICY
+(59) ASU tracks Academic Integrity issues across campuses. One strike in one course (e.g., English) plus another strike in another course (e.g., IE) results in being asked to depart from the College of Engineering for at least a year.
+
+Examples of activities PERMITTED in this course:
+- Working with other students in person and on Yellowdig to do homework problems and grow understanding (before assessments, not specific questions/answers from assessments).
+- Posting your individual homework problem statement on Yellowdig and seeking peer answers/assistance (before assessments).
+- Discussing quiz preparation on Yellowdig (before assessments, not specific assessment questions/answers).
+
+Examples of activities FORBIDDEN in this course:
+- Using Chegg.com, CourseHero.com or similar resources to find answers/solutions for homework, quizzes, or exams.
+- Simply copying a friend's homework answers.
+- Collaborating with another person on concept quizzes (sharing questions/answers while the quiz is open in Canvas).
+- Collaborating with another person on exams (sharing questions/answers while the exam is open in Canvas).
+- Having another person do any part of any homework, quiz or exam for you.
+- Posting course content to Chegg.com, CourseHero.com or similar sites.
+- Talking about exam questions on Yellowdig (instead, ask the instructor for a review before the next exam).
+- Submitting AI-produced work (e.g., from ChatGPT, Bard) without explicit permission. Contact your professor about how to properly use AI in assignments.
+
+(60) The list of forbidden activities is not comprehensive. If unsure whether something violates ASU's Academic Integrity Policy, ask the Instructor. Unless specifically permitted, an activity or resource is forbidden until the Instructor says it is permitted.
+
+If you do any forbidden activity:
+- You will be reported to the Dean's office for an academic integrity violation.
+- Recommended sanctions: a zero on the work item AND/OR a full letter grade reduction for your final course grade.
+
+DIVERSITY AND INCLUSION
+(63) ASU values inclusion of all diverse backgrounds and perspectives. Students with concerns/conflicts arising from diversity issues should let the instructor know so it can be worked out. Students with established accommodations should convey them to the instructor at their earliest convenience.
+
+COPYRIGHT
+(64) Course content (lectures, slides, materials, assignments, homework, exercises, quizzes, exams) is copyrighted. Students may not share outside class, upload to non-approved websites, sell, or distribute course content or notes (see ACD 304-06 and ABOR Policy 5-308 F.14). Students must not upload non-original work to course forums without complying with copyright laws.
+
+(65) All course content and materials, including Zoom recorded lectures, are the property of Arizona State University, Dr. Daniel R. McCarville and Dr. A. Kucukozyigit, and are copyright protected. They may NOT be copied, given to a friend, uploaded to an internet site, or distributed in any way.
+
+COURSE EVALUATION
+(66) Students are expected to complete the course evaluation. Feedback is used to improve student learning. Students are notified when the online evaluation form is available.
+
+COURSE TOPICS (Tentative)
+- Introduction
+- Risk Management Overview
+- Risk Identification - Physics of failure and Environmental Impact
+- Risk Identification - Testing Reliability
+- Risk Assessment - Probability as it relates to Risk
+- Risk Assessment - Fault Tree Analysis
+- Risk Assessment - Event Tree Analysis
+- Risk Engineering - Fishbone Diagrams
+- Risk Engineering - Failure Mode and Effects Analysis
+- Risk Engineering - Redundancy and Fault Tolerance
+- Risk Engineering - Robust Parameter Design
+- Developing Risk Response Strategies
+- Risk Acceptance
+- Risk Mitigation
+- Safety risk management
+- Cyber Risk Awareness
+- Project Risk Management Overview - Introduction
+- Project Schedule Risk Management - PERT and CPM
+- Project Budget Risk Management
+- Project Risk Management - Monitor and Control
+- Enterprise Risk Management - Procedures and Documentation
+- Monte Carlo Simulation
+- Security Risk Management
+- Financial Risk Management
+- Financial Key Ratios
+- ISO 31000-2018 RM Principles and Guidelines
+- Quality System Project
+- Crisis Management
+- Special Topic - RM expert interview on Cyber Awareness
+- Systems thinking and practical applications for engineering
+
+COURSE AND SYLLABUS DISCLAIMER
+(67) Every attempt is made to provide a complete, comprehensive and accurate syllabus. However, unforeseen circumstances may make it necessary for the instructor to partly modify the syllabus during the semester. This will affect scheduling, not the grading and absence policies. Any information in this syllabus (other than grading and absence policies) may be subject to change with reasonable advance notice. Check ASU email and the course site often for updates and announcements.
