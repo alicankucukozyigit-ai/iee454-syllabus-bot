@@ -75,6 +75,28 @@ header p {
   color: #777;
 }
 
+.message p {
+  margin: 0 0 8px;
+}
+
+.message p:last-child {
+  margin-bottom: 0;
+}
+
+.message ul {
+  margin: 4px 0 8px;
+  padding-left: 20px;
+}
+
+.message li {
+  margin-bottom: 4px;
+}
+
+.message a {
+  color: inherit;
+  text-decoration: underline;
+}
+
 .chat-form {
   display: flex;
   border-top: 1px solid #e5e5e5;

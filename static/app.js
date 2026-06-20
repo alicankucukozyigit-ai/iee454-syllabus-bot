@@ -4,10 +4,58 @@ const messagesEl = document.getElementById("messages");
 
 let history = [];
 
-function addMessage(text, role) {
+function escapeHtml(str) {
+  return str
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
+}
+
+function renderMarkdownLite(text) {
+  const escaped = escapeHtml(text);
+  const lines = escaped.split("\n");
+  const htmlParts = [];
+  let listItems = [];
+
+  const flushList = () => {
+    if (listItems.length) {
+      htmlParts.push(`<ul>${listItems.join("")}</ul>`);
+      listItems = [];
+    }
+  };
+
+  for (const rawLine of lines) {
+    const line = rawLine.trim();
+    const bullet = line.match(/^[-*]\s+(.*)/);
+    if (bullet) {
+      listItems.push(`<li>${inlineFormat(bullet[1])}</li>`);
+      continue;
+    }
+    flushList();
+    if (line === "") {
+      htmlParts.push("<br>");
+    } else {
+      htmlParts.push(`<p>${inlineFormat(line)}</p>`);
+    }
+  }
+  flushList();
+  return htmlParts.join("");
+}
+
+function inlineFormat(line) {
+  return line
+    .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
+    .replace(/(https?:\/\/[^\s)]+)/g, '<a href="$1" target="_blank" rel="noopener">$1</a>');
+}
+
+function addMessage(text, role, asHtml = false) {
   const div = document.createElement("div");
   div.className = `message ${role}`;
-  div.textContent = text;
+  if (asHtml) {
+    div.innerHTML = renderMarkdownLite(text);
+  } else {
+    div.textContent = text;
+  }
   messagesEl.appendChild(div);
   messagesEl.scrollTop = messagesEl.scrollHeight;
   return div;
@@ -37,7 +85,7 @@ form.addEventListener("submit", async (e) => {
     if (data.error) {
       addMessage(`Error: ${data.error}`, "bot");
     } else {
-      addMessage(data.reply, "bot");
+      addMessage(data.reply, "bot", true);
       history.push({ role: "assistant", content: data.reply });
     }
   } catch (err) {
